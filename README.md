@@ -1,7 +1,7 @@
 # Platzi
 Repositorio para mis cursos de Platzi.
 
-![Logo Platzi](https://raw.githubusercontent.com/ivanmsb11/Platzi/main/assets/logo_platzi.png "Platzi")
+![Logo Platzi](https://raw.githubusercontent.com/ivanmsb11/Platzi/main/assets/logo_platzi.png)
 
 En curso:
 - Programación Orientada a Objetos:POO ⏳
