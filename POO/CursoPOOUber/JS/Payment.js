@@ -1,0 +1,3 @@
+const Payment = () => {
+    this.id;
+}
