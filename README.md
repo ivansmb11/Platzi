@@ -2,10 +2,11 @@
 Repositorio para mis cursos de Platzi.
 
 En curso:
-- Programación Orientada a Objetos:POO ⏳
+
 
 Terminados:
 - Introducción al Desarrollo Backend (93.33%) ✅
+- Programación Orientada a Objetos:POO ✅
 
 [Perfíl de Platzi 💚](https://platzi.com/p/ismb9/)
 
