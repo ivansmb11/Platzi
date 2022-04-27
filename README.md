@@ -2,7 +2,7 @@
 Repositorio para mis cursos de Platzi.
 
 En curso:
-
+- Curso de Fundamentos de Node.js
 
 Terminados:
 - Introducción al Desarrollo Backend (93.33%) ✅
