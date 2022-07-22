@@ -1,11 +1,13 @@
 package com.platzi.javatests;
 
 import org.junit.Test;
-import static org.junit.Assert.*;
 
-import static com.platzi.javatests.PasswordUtil.SecurityLevel.LOW;
-import static com.platzi.javatests.PasswordUtil.SecurityLevel.MEDIUM;
-import static com.platzi.javatests.PasswordUtil.SecurityLevel.HIGH;
+import com.platzi.javatests.util.PasswordUtil;
+
+import static com.platzi.javatests.util.PasswordUtil.SecurityLevel.HIGH;
+import static com.platzi.javatests.util.PasswordUtil.SecurityLevel.LOW;
+import static com.platzi.javatests.util.PasswordUtil.SecurityLevel.MEDIUM;
+import static org.junit.Assert.*;
 
 public class PasswordUtilTest {
     @Test
