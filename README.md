@@ -4,6 +4,7 @@ Repositorio para mis cursos de Platzi.
 En curso:
 - Curso de Fundamentos de Node.js
 - Curso de Fundamentos de Spring Boot
+- Curso Básico de Testing en Java
 
 Terminados:
 - Introducción al Desarrollo Backend (93.33%) ✅
